@@ -1,6 +1,0 @@
-streamlit
-requests
-transformers
-torch
-accelerate
-scikit-learn
